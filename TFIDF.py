@@ -23,7 +23,7 @@ def tfidf(word, blob, bloblist):
 Newspapers=["nytimes.com","thejakartapost.com","reuters.com"]
 bloblist=[]
 for news in Newspapers:
-    f = open("/Users/Aseel/xgoogle/islamicstate/"+news+"_Updated.txt", 'r')
+    f = open("/Users/Aseel/FinalProject/islamicstate/"+news+"_Updated.txt", 'r')
     blob = tb(f.read())
     bloblist.append(blob)
 
@@ -31,8 +31,9 @@ scores = {}
 for i, blob in enumerate(bloblist):
     print("Top words in document {}".format(i + 1))
     print len(blob.words)
-
+	count=0
     for word in blob.words:
+    	print count=count+1
     	scores = {word: tfidf(word, blob, bloblist)}
     sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     for word, score in sorted_words[:20]:

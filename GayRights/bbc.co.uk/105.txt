@@ -1,0 +1,33 @@
+The chief executive of Mozilla - the company best known for its Firefox browser - has stepped down.
+
+Brendan Eich was appointed just last month but came in for heavy criticism for his views on same-sex marriage.
+
+"Mozilla prides itself on being held to a different standard and, this past week, we didn't live up to it," she wrote.
+
+"We know why people are hurt and angry, and they are right: it's because we haven't stayed true to ourselves.
+
+"We didn't act like you'd expect Mozilla to act. We didn't move fast enough to engage with people once the controversy started. We're sorry. We must do better."
+
+Mr Eich has also stepped down from the board of the Mozilla Foundation, the non-profit organisation which owns the for-profit Mozilla Corporation.
+
+Mr Eich, who co-founded Mozilla and was also the creator of the JavaScript scripting language, made a $1,000 (£600) donation in 2008 in support of Californian anti-gay marriage law Proposition 8.
+
+Although it was initially passed, it was later overturned by the US Supreme Court in 2013.
+
+When the announcement of Mr Eich's appointment was made on 24 March, angry users voiced their opinions on social media. Several high-profile Mozilla employees also weighed in. Three board members also recently resigned - but Mozilla said the events were not linked to Mr Eich.
+
+"The three board members ended their terms before Brendan was publicly announced as CEO for a variety of reasons," Mozilla said in a statement.
+
+"Two had been planning to leave for some time, one since January and one explicitly at the end of the CEO search, regardless of the person selected."
+
+But the most damaging act of protest came via dating website OkCupid.
+
+Users who went to the site using Mozilla's Firefox browser were greeted with a message that read: "Hello there, Mozilla Firefox user. Pardon this interruption of your OkCupid experience.
+
+"Mozilla's new CEO, Brendan Eich, is an opponent of equal rights for gay couples. We would therefore prefer that our users not use Mozilla software to access OkCupid."
+
+Mozilla initially defended Mr Eich's appointment, but Ms Baker's blog post announcing the chief executive's departure made apologies for doing so.
+
+"We failed to listen, to engage, and to be guided by our community," she wrote.
+
+She added that any potential replacement for Mr Eich was still being discussed, and that more details would be announced next week.

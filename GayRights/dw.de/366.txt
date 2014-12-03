@@ -1,0 +1,31 @@
+On Friday, the Council of the European Union approved new measures against Iran, adding 17 Iranian officials to the list of those forbidden to enter the 27-member bloc, as well as an asset freeze. The Council's new measures also bans all exports of equipment and software "intended for use in the monitoring or interception of internet and telephone communications by the Iranian authorities."
+
+"The EU remains deeply concerned by the deteriorating human rights situation in Iran," said Catherine Ashton, the EU's High Representative, in a statement.
+
+"We deplore the continuing increase in executions and the widespread repression of Iranian citizens, including human rights defenders, journalists and members of the opposition. We renew our calls on the Iranian authorities to live up to their international human rights obligations and to protect all fundamental freedoms to which the Iranian people are entitled."
+
+Since the contested Iranian presidential election of June 2009, various European companies have been implicated in selling hardware and software than can be used to conduct surveillance and other intelligence-gathering capabilities.
+
+In November, the British government said it would consider banning the sale of mobile phone surveillance software to Iran and Syria.
+
+A British company, Creativity Software, had admitted that it does sell location-based services technology to MTN Irancell in Iran, but suggested that these were limited to "zone billing" and "friend finder" applications. In a November 10, 2011 statement on its website, the company emphatically writes: "Creativity Software has not supplied technology to any other entity in Iran."
+
+Previously, Nokia Siemens Networks, a joint Finnish-German venture, came under fire during the aftermath of the controversial June 2009 Iranian presidential election. Critics said its hardware had been used to monitor and surveil Iranians. The company maintains that what it sold to Iran was legal and that a "lawful intercept" capability is common in such packages.
+
+The new law designates local entities in member states, usually a cabinet-level ministry, such as the Foreign Ministry or Ministry of Economy, to be responsible for evaluating possible export cases. In the case of a sale of material that could fall under this ban, it is incumbent upon the firm to submit an application to the relevant government agency for review before the sale is complete.
+
+The Council of the European Union noted that the new language concerning a ban on Internet surveillance equipment was copied from existing export bans concerning nuclear-related material.
+
+"The competent authorities of the member states, as identified in the websites referred to in Annex II, shall not grant any authorization under paragraph 1 if they have reasonable grounds to determine that the equipment, technology or software in question would be used for monitoring or interception, by Iran's government, public bodies, corporations and agencies or any person or entity acting on their behalf or at their direction, of internet or telephone communications in Iran," the new measure states.
+
+Longtime privacy activists and others who support a free Internet in Iran have applauded this move.
+
+"It used to be that there were gun export controls for countries engaged in war against other nations - this seems to expand now to countries waging war against their own citizens," wrote Rick Falkvinge, the founder of the Swedish Pirate Party, in an e-mail sent to DW.
+
+"In such a shift, it is both imperative and natural to include surveillance products used to wage war against the civil population. I welcome this development; it is fully in line with the grassroots fight for securing civil liberties. Everybody has the right to communicate and express opinions in private."
+
+Yet Eric King, of Privacy International, an advocacy group in London, cautioned that the ban might not go far enough.
+
+"For a country like Iran in which all companies administering national infrastructure are effectively controlled by the state, it is still unclear whether the ban on exports of equipment and software 'intended for use…by the Iranian authorities' goes far enough," he wrote in an e-mail sent to DW.
+
+"Until such time as the Iranian government corrects its appalling attitude to human rights, there can be no guarantee that any surveillance technology exported to the country will not be used to facilitate torture, execution and unlawful detention."
